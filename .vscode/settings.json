@@ -53,6 +53,5 @@
         "tsconfig.json": "tsconfig.*.json",
         "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb,pnpm-workspace.yaml",
         "README.md": "*.md",
-        "Dockerfile": "docker-compose-docs.yaml,docker-compose.yaml,Dockerfile.docs"
     }
 }
